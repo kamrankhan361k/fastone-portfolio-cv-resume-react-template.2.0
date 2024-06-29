@@ -1,0 +1,10 @@
+export { default as SectionTitle } from "./SectionTitle";
+export { default as SectionTitle2 } from "./SectionTitle2";
+export { default as SectionTitle3 } from "./SectionTitle3";
+export { default as SectionTitleIcon } from "./SectionTitleIcon";
+export { default as SectionTitleLight } from "./SectionTitleLight";
+export { default as SectionTitleLight2 } from "./SectionTitleLight2";
+export { default as SectionTitleLightCenter2 } from "./SectionTitleLightCenter2";
+export { default as SectionTitleLightFull } from "./SectionTitleLightFull";
+export { default as SectionTitleSimple } from "./SectionTitleSimple";
+export { default as SectionTitleSimple2 } from "./SectionTitleSimple2";

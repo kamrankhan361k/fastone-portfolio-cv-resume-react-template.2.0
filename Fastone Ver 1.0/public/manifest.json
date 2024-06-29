@@ -1,0 +1,20 @@
+{
+  "short_name": "Fastone",
+  "name": "Personal Portfolio or CV/Resume App",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "35x35",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "219x40"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#284be5",
+  "background_color": "#ffffff"
+}
